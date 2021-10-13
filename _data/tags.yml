@@ -1,0 +1,12 @@
+algorithm :
+  name: algorithm
+  description: False
+  cover: assets/built/images/background-frontend.png
+python :
+  name: python
+  description: False
+  cover: assets/built/images/background-frontend.png
+web :
+  name: web
+  description: False
+  cover: assets/built/images/background-frontend.png
