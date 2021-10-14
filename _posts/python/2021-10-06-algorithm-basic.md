@@ -13,7 +13,7 @@ author: conann-yj
 
 {% include python-table-of-contents.html %}
 
-이 글은 algorithm basic 입니다!
+이 글은 algorithm basic 입니다!!!!!
 
 ~~~javascript
 function syntaxHighlight(code) {
