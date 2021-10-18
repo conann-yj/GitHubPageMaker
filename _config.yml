@@ -48,7 +48,7 @@ baseurl: /
 title: IT 개발 블로그 입니다.
 # 자신의 blog title.
 
-description: 개발블로그
+description: SW | 웹개발 | 게임개발 | 알고리즘 | IT
 # blog home에 표시될 blog에 대한 전반적인 설명.
 
 cover: assets/built/images/blog-cover1.jpg
