@@ -15,6 +15,8 @@ author: conann-yj
 
 이 글은 algorithm basic 입니다!!!!!!!!!!!
 
+almost everything!!
+
 ~~~javascript
 function syntaxHighlight(code) {
    var foo = 'Hello World';
