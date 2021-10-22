@@ -15,7 +15,7 @@ author: conann-yj
 
 이 글은 algorithm basic 입니다!!!!!!!!!!!
 
-almost everything!! Are you in the mood for a walk?
+almost everything!! enjoy!!
 
 ~~~javascript
 function syntaxHighlight(code) {
