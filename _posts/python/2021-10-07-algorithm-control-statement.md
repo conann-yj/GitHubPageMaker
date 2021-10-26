@@ -15,7 +15,7 @@ author: conann-yj
 
 이 글은 algorithm control에 관한 내용 입니다!!!!!! 개발블로그
 
-I'm doing fine!!!!!!
+I'm doing fine!
 
 Have a good time!!!!!!
 
